@@ -1,76 +1,35 @@
-# CRUD-Users-MultiStack
+# CRUD-Users-MultiStack  
 
-**CRUD-Users-MultiStack** es un proyecto colaborativo que centraliza múltiples implementaciones de un sistema CRUD (Crear, Leer, Actualizar, Eliminar) para la gestión de usuarios, utilizando diferentes stacks tecnológicos. El objetivo principal es aprender, comparar y demostrar cómo un mismo problema puede resolverse con tecnologías diversas.
+**CRUD-Users-MultiStack** es un repositorio central que organiza y enlaza múltiples implementaciones de un sistema CRUD para la gestión de usuarios, desarrolladas con diferentes stacks tecnológicos.  
 
-## 📚 **Descripción del proyecto**
+Cada implementación se encuentra en su propio repositorio, donde está completamente documentada para facilitar su uso, configuración y comprensión. Este enfoque modular permite explorar y aprender sobre tecnologías específicas de manera independiente.  
 
-Este repositorio sirve como punto de partida para explorar distintos stacks tecnológicos a través de implementaciones reales de un CRUD de usuarios. Cada implementación tiene su propio repositorio, documentado y diseñado para facilitar el aprendizaje y la colaboración.
+## 📚 **Descripción del proyecto**  
 
-### 🎯 **Objetivos**
+El objetivo principal de este proyecto es ofrecer un punto de partida para aprender y comparar cómo resolver un problema común, como un CRUD de usuarios, utilizando diferentes lenguajes y herramientas.  
 
-- Ofrecer una plantilla inicial para aprender nuevos lenguajes y herramientas.
-- Comparar el rendimiento y las características de diferentes stacks tecnológicos.
-- Crear un entorno colaborativo donde desarrolladores puedan contribuir y mejorar el proyecto.
+### 🎯 **Objetivos**  
 
-## Estructura del repositorio
+- Proveer implementaciones prácticas de CRUD con stacks tecnológicos diversos.  
+- Facilitar el aprendizaje mediante ejemplos reales y bien documentados.  
+- Fomentar la colaboración entre desarrolladores interesados en distintos lenguajes y frameworks.  
 
-```bash
-CRUD-Users-MultiStack/
-├── README.md       # Documentación principal del proyecto.
-├── CONTRIBUTING.md # Guía para contribuir al proyecto.
-└── stacks/
-    ├── Node-Express-MySQL.md/     # Implementación con Node.js, Express y MySQL.
-    ├── Python-Django-MongoDB.md/  # Implementación con Python, Django y MongoDB.
-    └── Java-Spring-PostgreSQL.md/ # Implementación con Java, Spring y PostgreSQL.
-```
+## 🚀 **Repositorios individuales**  
 
-## 🌟 **Casos de uso**
+Cada implementación está alojada en un repositorio propio. Aquí tienes los enlaces a las implementaciones actuales:  
 
-- **Estudiantes**: Aprender y practicar con distintos lenguajes y tecnologías.
-- **Profesionales**: Comparar herramientas y demostrar experiencia en proyectos reales.
-- **Equipos**: Evaluar diferentes stacks para elegir la tecnología adecuada en futuros proyectos.
+- [CRUD con Node.js, Express y MySQL](https://github.com/Organization-DevXP/CRUD-Node-Express-MySQL)  
+- [CRUD con Python, Django y MongoDB](https://github.com/Organization-DevXP/CRUD-Python-Django-MongoDB)  (No disponible)
+- [CRUD con Java, Spring y PostgreSQL](https://github.com/Organization-DevXP/CRUD-Java-Spring-PostgreSQL)  (No disponible)
 
-## 🚀 **Cómo empezar**
+> Si deseas contribuir con una nueva implementación, consulta el archivo [CONTRIBUTING.md](./CONTRIBUTING.md).  
 
-1. **Clona este repositorio**:
+## 🌟 **Casos de uso**  
 
-```bash
-git clone https://github.com/Organization-DevXP/CRUD-Users-MultiStack.git
-cd CRUD-Users-MultiStack
-```
+- **Estudiantes**: Practicar con diferentes stacks y entender sus diferencias.  
+- **Profesionales**: Comparar tecnologías y optimizar elecciones para futuros proyectos.  
+- **Equipos**: Analizar distintas opciones para encontrar la herramienta ideal según el caso de uso.  
 
-2. **Cambia a la rama del stack que deseas explorar:** Cada stack tiene su propia rama. Usa el siguiente comando para cambiar a una rama específica:
+## 📜 **Licencia**  
 
-```bash
-git checkout <nombre-de-la-rama>
-```
-
-Por ejemplo:
-
-- Para el stack Node.js, Express y MySQL:
-
-```bash
-git checkout Node-Express-MySQL
-```
-
-- Para el stack Python, Django y MongoDB:
-
-```bash
-git checkout Python-Django-MongoDB
-```
-
-3. **Sigue las instrucciones en el archivo README.md de cada rama:** Cada rama contiene su propia documentación con pasos detallados para configurar y ejecutar la implementación correspondiente.
-
-4. **Contribuye al proyecto:** Consulta el archivo [CONTRIBUTING.md](CONTRIBUTING.md) en la rama principal para conocer cómo colaborar.
-
-## 📞 **Contacto**
-
-Si deseas contribuir o tienes preguntas sobre el proyecto, no dudes en abrir un issue o contactarme a través de:
-
-- **Autor**: Eduardo M. Moreno
-- **Github**: [Organization-DevXP](https://github.com/Organization-DevXP)
-- **LinkedIn**: [Organization-DevXP](https://www.linkedin.com/company/organization-devxp)
-
-## 📜 **Licencia**
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para más detalles.
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para más detalles.  
