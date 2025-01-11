@@ -61,7 +61,7 @@ git checkout Python-Django-MongoDB
 
 3. **Sigue las instrucciones en el archivo README.md de cada rama:** Cada rama contiene su propia documentación con pasos detallados para configurar y ejecutar la implementación correspondiente.
 
-4. **Contribuye al proyecto:** Consulta el archivo CONTRIBUTING.md en la rama principal para conocer cómo colaborar.
+4. **Contribuye al proyecto:** Consulta el archivo [CONTRIBUTING.md](CONTRIBUTING.md) en la rama principal para conocer cómo colaborar.
 
 ## 📞 **Contacto**
 

@@ -10,7 +10,7 @@
 2. **Clona tu fork localmente**
 
 ```bash
-git clone https://github.com/Organization-DevXP/CRUD-Users-MultiStack.git
+git clone https://github.com/TU-USUARIO/CRUD-Users-MultiStack.git
 cd CRUD-Users-MultiStack
 ```
 
@@ -18,7 +18,7 @@ cd CRUD-Users-MultiStack
    Utiliza un nombre descriptivo para tu rama. Por ejemplo, si vas a trabajar con Node.js, Express y MySQL, haz lo siguiente:
 
 ```bash
-git checkout CRUD-Node-Express-MySQL
+git checkout -b CRUD-Node-Express-MySQL
 ```
 
 4. **Realiza tus cambios**
@@ -27,7 +27,7 @@ git checkout CRUD-Node-Express-MySQL
 5. **Actualiza la documentación**
    Si tu contribución incluye una nueva implementación de stack, asegúrate de agregar:
 
-- Un archivo en la carpeta /stacks con detalles de tu implementación.
+- Un archivo.md en la carpeta /stacks en la rama **master** con detalles de tu implementación.
 
 6. **Realiza un commit de tus cambios**
    Usa mensajes de commit claros y concisos:
