@@ -18,7 +18,7 @@ El objetivo principal de este proyecto es ofrecer un punto de partida para apren
 
 Cada implementación está alojada en un repositorio propio. Aquí tienes los enlaces a las implementaciones actuales:  
 
-- [CRUD con Node.js, Express y MySQL](https://github.com/Organization-DevXP/CRUD-Node-Express-MySQL)  
+- [CRUD con Node.js, Express y MySQL](https://github.com/Organization-DevXP/CRUD-Users-Nodejs-Express-MySQL)  
 - [CRUD con Python, Django y MongoDB](https://github.com/Organization-DevXP/CRUD-Python-Django-MongoDB)  (No disponible)
 - [CRUD con Java, Spring y PostgreSQL](https://github.com/Organization-DevXP/CRUD-Java-Spring-PostgreSQL)  (No disponible)
 
