@@ -19,9 +19,9 @@ CRUD-Users-MultiStack/
 ├── README.md       # Documentación principal del proyecto.
 ├── CONTRIBUTING.md # Guía para contribuir al proyecto.
 └── stacks/
-    ├── Node-Express-MySQL/     # Implementación con Node.js, Express y MySQL.
-    ├── Python-Django-MongoDB/  # Implementación con Python, Django y MongoDB.
-    └── Java-Spring-PostgreSQL/ # Implementación con Java, Spring y PostgreSQL.
+    ├── Node-Express-MySQL.md/     # Implementación con Node.js, Express y MySQL.
+    ├── Python-Django-MongoDB.md/  # Implementación con Python, Django y MongoDB.
+    └── Java-Spring-PostgreSQL.md/ # Implementación con Java, Spring y PostgreSQL.
 ```
 
 ## 🌟 **Casos de uso**
@@ -29,6 +29,39 @@ CRUD-Users-MultiStack/
 - **Estudiantes**: Aprender y practicar con distintos lenguajes y tecnologías.
 - **Profesionales**: Comparar herramientas y demostrar experiencia en proyectos reales.
 - **Equipos**: Evaluar diferentes stacks para elegir la tecnología adecuada en futuros proyectos.
+
+## 🚀 **Cómo empezar**
+
+1. **Clona este repositorio**:
+
+```bash
+git clone https://github.com/Organization-DevXP/CRUD-Users-MultiStack.git
+cd CRUD-Users-MultiStack
+```
+
+2. **Cambia a la rama del stack que deseas explorar:** Cada stack tiene su propia rama. Usa el siguiente comando para cambiar a una rama específica:
+
+```bash
+git checkout <nombre-de-la-rama>
+```
+
+Por ejemplo:
+
+- Para el stack Node.js, Express y MySQL:
+
+```bash
+git checkout Node-Express-MySQL
+```
+
+- Para el stack Python, Django y MongoDB:
+
+```bash
+git checkout Python-Django-MongoDB
+```
+
+3. **Sigue las instrucciones en el archivo README.md de cada rama:** Cada rama contiene su propia documentación con pasos detallados para configurar y ejecutar la implementación correspondiente.
+
+4. **Contribuye al proyecto:** Consulta el archivo CONTRIBUTING.md en la rama principal para conocer cómo colaborar.
 
 ## 📞 **Contacto**
 
