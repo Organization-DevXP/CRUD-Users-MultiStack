@@ -22,7 +22,7 @@ Cada implementación está alojada en un repositorio propio. Aquí tienes los en
 - [CRUD con Python, Django y MongoDB](https://github.com/Organization-DevXP/CRUD-Python-Django-MongoDB)  (No disponible)
 - [CRUD con Java, Spring y PostgreSQL](https://github.com/Organization-DevXP/CRUD-Java-Spring-PostgreSQL)  (No disponible)
 
-> Si deseas contribuir con una nueva implementación, consulta el archivo [CONTRIBUTING.md](./CONTRIBUTING.md).  
+> Si deseas contribuir con una nueva implementación, consulta el archivo [CONTRIBUTING.md](./CONTRIBUTING.md) en cada Repositorio.  
 
 ## 🌟 **Casos de uso**  
 
