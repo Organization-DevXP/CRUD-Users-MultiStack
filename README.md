@@ -39,8 +39,8 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](./LICENS
 
 Puedes seguirnos o unirte a nuestras comunidades en las siguientes plataformas:
 
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin)](https://www.linkedin.com/company/organization-devxp)
- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=social&logo=youtube)](https://www.youtube.com/@Organization-DevXP)
- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=social&logo=whatsapp)](https://chat.whatsapp.com/FfX0fXV4xHzCvFoVFn7ssa)
- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=social&logo=discord)](https://discord.com/invite/j3hnJjR8Yd)
- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=social&logo=github)](https://github.com/Organization-DevXP)
+ <a href="https://www.linkedin.com/company/organization-devxp"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin" width="120"></a>
+ <a href="https://www.youtube.com/@Organization-DevXP"><img src="https://img.shields.io/badge/YouTube-FF0000?style=social&logo=youtube" width="150"></a>
+ <a href="https://chat.whatsapp.com/FfX0fXV4xHzCvFoVFn7ssa"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=social&logo=whatsapp" width="160"></a>
+ <a href="https://discord.com/invite/j3hnJjR8Yd"><img src="https://img.shields.io/badge/Discord-7289DA?style=social&logo=discord" width="140"></a>
+ <a href="https://github.com/Organization-DevXP"><img src="https://img.shields.io/badge/GitHub-181717?style=social&logo=github" width="135"></a>
